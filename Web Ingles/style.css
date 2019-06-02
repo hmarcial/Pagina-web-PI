@@ -1,0 +1,58 @@
+.titulo h1 {
+    background-image: url('./portada.png');
+    font-family: Helvetica;
+    text-align: center;
+    font-weight: bold;
+    font-size: 90px;
+    color: yellow;
+    opacity: 0.9;
+}
+.ftp h2 {
+    background-color: lightcoral;
+}
+h2 {
+    color: whitesmoke;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 32px;
+    opacity: 0.6;
+    font-weight: bold;
+    text-align: center;
+}
+.objetivo p {
+    font-family: sans-serif;
+    font-size: 20px;
+}
+img {
+    block-size: 100px;
+}
+.req h2 {
+    background-color: lightskyblue;
+}
+.imateriales h2 {
+    background-color: lightseagreen;
+}
+ol {
+    font-family: sans-serif;
+    font-size: 20px;
+}
+body {
+    background-image: url('./brick-wall-color-design-1985167.jpg');
+}
+.software h3 {
+    background-image: url('https://www.ibm.com/software/pe/images/ssa_es_Bigfix_600x340.jpg');
+}
+h3 {
+    color: rgba(218, 85, 85, 0.986);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 28px;
+    font-weight: bold;
+    text-align: center;
+}
+ul {
+    font-family: sans-serif;
+    font-size: 20px;
+}
+.embebidos h3 {
+    background-image: url('https://www.lanner-america.com/wp-content/uploads/90374-1.jpg');
+    color: rgb(2, 131, 252);
+}
